@@ -11,12 +11,12 @@ Event check-in kiosk service with asynchronous print processing and webhook call
 - Webhooks for async processing
 
 ## Features
-- ✅ QR code check-in
-- ✅ Duplicate scan protection
-- ✅ Asynchronous print processing
-- ✅ Webhook callbacks
-- ✅ Status tracking (pending → printing → checked_in)
+- QR code check-in
+- Duplicate scan protection
+- Asynchronous print processing
+- Webhook callbacks
+- Status tracking (pending → printing → checked_in)
 
 ## Installation
-```bash
+
 npm install
